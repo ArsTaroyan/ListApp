@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">Мое приложение</string>
+    <string name="title_label">Заголовок</string>
+    <string name="name_edit">Введите ваше имя</string>
+    <string name="details_label">Подробности</string>
+    <string name="solved_label">Решено</string>
+    <string name="user_photo_button">Фотографировать</string>
+    <string name="user_suspect">Выберите Пользователя</string>
+    <string name="user_report">Отправить отчет о пользователе</string>
+    <string name="new_user">Новый пользователь</string>
+    <string name="user_report_text">%1$s!
+  Пользователь был обнаружен на %2$s. %3$s и %4$s
+ </string>
+    <string name="user_report_solved">Пользователь зарегистрировался</string>
+    <string name="user_report_unsolved">Пользователь не зарегистрировался</string>
+    <string name="user_report_no_suspect">Нет пльзователья.</string>
+    <string name="user_report_suspect">Пользователь %s.</string>
+    <string name="user_report_subject">Пользовательский отчет MyApplication</string>
+    <string name="send_report">Отправить отчет о пользователе через</string></resources>

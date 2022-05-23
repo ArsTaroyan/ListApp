@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_label">Title</string>
+    <string name="name_edit">Enter your name</string>
+    <string name="details_label">Details</string>
+    <string name="solved_label">Solved</string>
+    <string name="user_photo_button">Take photo</string>
+    <string name="user_suspect">Choose Suspect</string>
+    <string name="user_report">Send User Report</string>
+    <string name="new_user">New User</string>
+    <string name="user_report_text">%1$s!
+ The user was discovered on %2$s. %3$s, and %4$s
+ </string>
+    <string name="user_report_solved">User is registered</string>
+    <string name="user_report_unsolved">User is not registered</string>
+    <string name="user_report_no_suspect">There is no user.</string>
+    <string name="user_report_suspect">The user is %s.</string>
+    <string name="user_report_subject">MyApplication User Report</string>
+    <string name="send_report">Send user report via</string>
+</resources>
